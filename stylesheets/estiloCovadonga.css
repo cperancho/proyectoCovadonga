@@ -53,6 +53,8 @@ ol li{
       color:#586569;
 }
 
+
+
 a:link{
 	text-decoration:none;
 	  color:#586569;
@@ -65,10 +67,7 @@ a:hover{
 }
 
 
-li:hover{
-	color:#ffffff;
-	
-}
+
 a:active {
 		color:#8808f5;
 } 
@@ -77,9 +76,7 @@ li:active{
 	color:#8808f5;
 }
 
-span {
-	pointer-events: none;
-}
+
 
 
  table{
@@ -107,7 +104,7 @@ table,td{
     background-color:#f9f8fc;
 	text-align:left;
 	padding:10px;
-	pointer-events: none;
+
 	
 	
 }
